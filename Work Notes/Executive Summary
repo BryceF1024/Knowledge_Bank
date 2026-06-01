@@ -1,1 +1,29 @@
+***Med Center Summary
 
+-First thing is to start forming the tables using the PowerBI data.
+-Use the filters tab to make sure that you are just going to be using the General Ledger(GL) department and then insert your specific dept ID.
+-Also for each PowqerBI use, make sure that you have the correct dates, etc listed.
+-Once you have the table created, go to the 3 dots on the top corner of it and make sure you download it.
+-We will be filling out tons of different tabs and those tabs include doing Operating expenses, Financial Summary, Productivity, Procedures (service mix), Visit Mix, and Aging Claims.
+-For all tables give a comment under stating when it was made
+
+---For operating expenses we will use the PowerBI page of Open/Closed 
+
+---For the financial summary 
+-For this page in PowerBI we use the FY Analysis. Once again get the filters set and the correct dates, Quarters, Years, etc.
+
+---Next section is Aging Claims
+-We use a different PowerBI dashboard for this one. We would use the PowerBI that is called Med Center Revenue Cycle Report
+
+---Next section is Productivity
+-This is another different PowerBI and we use the Executive Daily Productivity Tracker under the page PT - Trending 
+-You put in your department and then you will update the dates, the dates will always be the previous fiscal year and the current one. To do this you bring up the filter and then click on te actual dashboard table so that
+-> PAY_END_DATE shows up in filters and the FYs are from July through March.
+
+---Next section is Procedures (Service Mix)
+-You organize by CPT code with the highest to lowest charge associated.
+-This is in the Hospital Billing Transaction PowerBI under the page Top CPT
+
+---Next is visit Mix
+-Use the Medical Billing Transactions PowerBI and then use the Payor Tyoe page for the table.
+-
